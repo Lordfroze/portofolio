@@ -69,7 +69,7 @@ export function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">Kontak</h3>
             <address className="not-italic text-charcoal-400 text-sm space-y-3">
-              <a href="mailto:hello@username.dev" className="hover:text-forest-400 transition-colors block">hello@username.dev</a>
+              <a href="mailto:yogaadipratama22@gmail.com" className="hover:text-forest-400 transition-colors block">yogaadipratama22@gmail.com</a>
               <p>Indonesia</p>
               <p className="text-xs">Terbuka untuk kolaborasi remote & on-site</p>
             </address>

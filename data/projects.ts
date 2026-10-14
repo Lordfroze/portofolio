@@ -41,7 +41,7 @@ export const projects: Project[] = [
     name: 'Mobile Application',
     description: 'Aplikasi Android yang dibangun menggunakan React Native dan Expo untuk memudahkan akses layanan digital di perangkat mobile.',
     technologies: ['React Native', 'Expo', 'TypeScript', 'React Query', 'AsyncStorage'],
-    image: '/images/mobile-app.png',
+    image: '/images/mobileapp.jpg',
     liveDemo: undefined,
     sourceCode: 'https://github.com/username/mobile-app',
     status: 'In Progress',

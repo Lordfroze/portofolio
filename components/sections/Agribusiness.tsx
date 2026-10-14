@@ -11,9 +11,9 @@ const agriActivities = [
     title: 'Budidaya Sayuran',
     icon: 'Sprout',
     description:
-      'Mengelola budidaya sayuran hidroponik (NFT, DFT) dan konvensional: lettuce, kailan, bayam, selada, dan tanaman daun lainnya. Pengalaman hands-on dari penyiapan media tanam, penanaman bibit, hingga panen.',
-    highlights: ['Hidroponik NFT/DFT', 'Konvensional (tanah)', 'Manajemen nutrisi', 'Pengendalian hama terpadu'],
-    image: '/images/farming-vegetables.jpg',
+      'Mengelola budidaya sayuran konvensional: bayam kangkung sawi, dan tanaman daun lainnya. Pengalaman hands-on dari penyiapan media tanam, penanaman bibit, hingga panen.',
+    highlights: ['Konvensional (tanah)', 'Manajemen nutrisi', 'Pengendalian hama terpadu'],
+    image: '/images/budidayasayuran.jpg',
   },
   {
     id: 'business-management',
@@ -22,7 +22,7 @@ const agriActivities = [
     description:
       'Mengelola operasional usaha pertanian skala kecil-menengah: perencanaan tanam, pembelian input pertanian, manajemen tenaga kerja, pencatatan keuangan, hingga pemasaran hasil panen ke pasar lokal.',
     highlights: ['Perencanaan musiman', 'Manajemen keuangan', 'Pemasaran hasil panen', 'Supply chain management'],
-    image: '/images/farming-business.jpg',
+    image: '/images/pengelolaan-usaha.jpg',
   },
   {
     id: 'fertilization-experiments',
@@ -31,7 +31,7 @@ const agriActivities = [
     description:
       'Melakukan eksperimen mandiri dengan berbagai jenis pupuk organik dan anorganik, pupuk cair, kompos, serta biostimulan. Mencatat pertumbuhan, hasil panen, dan efisiensi biaya untuk menemukan protokol terbaik per komoditas.',
     highlights: ['Pupuk organik vs anorganik', 'Pupuk cair & foliar', 'Komposting mandiri', 'Monitoring pertumbuhan'],
-    image: '/images/farming-fertilizer.jpg',
+    image: '/images/pupuk.png',
   },
   {
     id: 'tech-in-agriculture',
@@ -40,7 +40,7 @@ const agriActivities = [
     description:
       'Membangun dan menggunakan alat bantu digital: aplikasi pencatatan panen & keuangan, monitoring jadwal tanam & pemupukan, manajemen stok pupuk/benih, serta analisis keuntungan per komoditas dan musim tanam.',
     highlights: ['Aplikasi pencatatan panen', 'Jadwal tanam & pupuk otomatis', 'Manajemen stok digital', 'Analisis keuangan per komoditas'],
-    image: '/images/farming-tech.jpg',
+    image: '/images/pemanfaatanteknologipertanian.png',
   },
 ];
 
