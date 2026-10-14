@@ -1,0 +1,20 @@
+<svg width="600" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1f27;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#262b33;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#bg)" />
+  <rect x="100" y="80" width="400" height="290" rx="16" fill="#1a1f27" stroke="#3d4350" stroke-width="1"/>
+  <text x="300" y="140" font-family="system-ui, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Pengelolaan Usaha</text>
+  <text x="300" y="180" font-family="system-ui, sans-serif" font-size="14" fill="#999fa8" text-anchor="middle">Perencanaan • Keuangan • Pemasaran</text>
+  <rect x="150" y="220" width="300" height="3" rx="1.5" fill="#3d4350"/>
+  <g fill="#7a828d" font-family="system-ui, sans-serif" font-size="14">
+    <text x="170" y="260" text-anchor="start">📊 Keuangan & Pencatatan</text>
+    <text x="170" y="290" text-anchor="start">📅 Jadwal Tanam Musiman</text>
+    <text x="170" y="320" text-anchor="start">🚜 Input & Perlengkapan</text>
+    <text x="170" y="350" text-anchor="start">📦 Stok & Inventaris</text>
+    <text x="170" y="380" text-anchor="start">💰 Analisis Keuntungan</text>
+  </g>
+</svg>
